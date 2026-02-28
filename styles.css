@@ -1,0 +1,87 @@
+#MainHeader{
+    font-weight:bold;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 10px;
+}
+
+#login_form {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 40px;
+}
+
+
+#button1 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:blue;
+    color:white;
+    height:40px;
+    margin-top:25px;
+}
+
+#FieldText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#f1{
+    margin-top:25px;
+    height:40px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#f2{
+    margin-top:25px;
+    height:40px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;   
+}
+
+#f3{
+    margin-top:6px;
+    height:90px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;   
+}
+
+#main-table{
+    padding-top:30px;
+    display: flex;
+    justify-content: center;   
+}
+
+th{
+    padding-left:70px;
+    padding-right:70px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background:rgb(26, 25, 25);
+    color:white;
+}
+
+#table-data-gray{
+    text-align:center;
+    padding-left:70px;
+    padding-right:70px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background:rgb(216, 216, 216);
+}
+
+#table-data-white{
+    text-align:center;
+    padding-left:70px;
+    padding-right:70px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background:rgb(255, 254, 254);
+}
